@@ -85,3 +85,9 @@ javac *.java
 
 # 2️⃣ Run the program
 java MainMenu
+
+```
+
+### Usage
+
+You are **free to download and use this template for personal projects, educational purposes, or for non-commercial use**. However, any public or commercial use, including publishing, marketing, or using it in a commercial project, is **not permitted** without explicit permission.
